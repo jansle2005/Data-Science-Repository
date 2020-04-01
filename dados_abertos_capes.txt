@@ -1,0 +1,8 @@
+[1] LINK DE ACESSO AOS DADOS ABERTOS DA CAPES
+https://dadosabertos.capes.gov.br/
+
+[2] EXEMPLO 1:
+https://dadosabertos.capes.gov.br/dataset/coleta-de-dados-docentes-da-pos-graduacao-stricto-sensu-no-brasil-2017
+
+[3] EXEMPLO 2:
+https://dadosabertos.capes.gov.br/dataset/pagamentos-de-bolsas-e-auxilios-de-01-2011-a-05-2016
